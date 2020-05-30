@@ -1,0 +1,23 @@
+{
+  "name": "todoapp-sarac",
+  "version": "1.0.0",
+  "description": "to do projesi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "deneme",
+    "todo"
+  ],
+  "author": "Mustafa Saraç",
+  "license": "ISC",
+  "dependencies": {
+    "simple-is": "^0.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mustafasarac/todoapp-sarac.git"
+  }
+}
